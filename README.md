@@ -1,3 +1,3 @@
-# **Hacktoberfest**
+# _Hacktoberfest_
 
 Belajar Git Sambil GeBe Hacktoberfest.
